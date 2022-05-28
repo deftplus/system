@@ -1,0 +1,118 @@
+Действия перед переустановкой системы
+1С (сохранить список баз)
+	C:\Users\Владимир\AppData\Roaming\1C\1CEStart\ibases.v8i
+SQL (сохранить базы)
+Перенести информацию из каталогов документы, загрузки и рабочий стол
+µTorrent (сохранить торренты)
+	c:\Users\Владимир\AppData\Roaming\uTorrent\
+Steam
+	astratek
+	GecrTravel1973
+
+Дополнения Thunderbird  ГОТОВО
+    G-Hub Lite
+    quickFilters
+    ReplyWithHeader
+
+Расширения Microsoft Visual Studio
+    Data Workspace
+    Excel Viewer
+    Git Graph
+    Git History
+    GitLens
+    Jupyter
+    Jupyter Keymap
+    Jupyter Notebook Renderers
+    Language 1C
+
+Список программ для установки
+    MindManager
+    MobaXterm
+    GitHub Desktop
+    Telegramm
+    Skype
+    AirExplorer
+    uTorrent
+    WhatsApp
+    
+    1C + EDT
+    Chrome + Mozilla
+    MS SQL  D:\Torrent\ISO\Microsoft_Windows _SQL_Server_2019
+    Cisco AnyConnect, инструкцию
+    MobaXterm настройки подключений D:\Install\Установка системы\MobaXterm configuration (2022-05-28 21.56.07).mobaconf
+    
+    BELOFF  D:\Torrent\ISO\BELOFF_2022.ISO
+        Uninstall Tool
+        Far
+        LightShot
+        AusLogics Disk Defrag Ultimate
+        Архиватора
+            7 zip
+            WinRAR
+   		Редакторы и просмотрщики
+            NotePad++
+            SumatraPDF
+            Ifran view
+		Видео и аудио
+			Aimp
+			Daum PotPlayer
+		Интернет и сети
+			Mozilla Firefox Quantum
+			Thunderbird
+			TeamViewer
+        Скачивание и загрузка
+            uTorrent 3.5.4.44632
+            4K Video Downloader
+        
+
+        Git
+        ScetchUp
+        Python
+        Steam
+        Microsoft office - Exel,Word,Project,Paint,Visio
+        Sourcetree
+        Microsoft Visual Studio
+
+Инструкция по подключения к ВПН
+    D:\Install\Инструкции для дома\Альтернативная_инструкция_по_ВПН.docx
+
+
+
+Собрать настройки Ubuntu
+
+
+Закладки браузеров ГОТОВО
+    Chrome
+        Все закладки сохранены в Папка\Текущие
+    Mozilla
+        Фильмы
+        http://rutor.info/torrent/719496/vselennaja-dc_komiks-kollekcija_dc-universe_comics-sollection-1989-2019-bdrip-1080p
+        http://rutor.info/torrent/863790/sokroviwe-nacii_national-treasure-2004-web-dl-hevc-2160p-4k-dolby-vision-d-p2-a
+        http://rutor.info/torrent/864088/zeljonaja-milja_the-green-mile-1999-bdremux-2160p-4k-hdr-d-p-a
+        http://rutor.info/torrent/758232/maska-zorro_the-mask-of-zorro-1998-uhd-bdremux-2160p-ot-selezen-4k-hdr-licenzija
+        http://rutor.info/torrent/864138/dorogoj-jevan-hansen_dear-evan-hansen-2021-bdremux-1080p-ot-selezen-d
+        http://rutor.info/torrent/474771/hrabroe-serdce_braveheart-1995-bdremux-1080p-d-r-r2-a
+        http://rutor.info/torrent/734393/drugoj-mir-kollekcija_underworld-collection-2003-2016-bdrip-1080p-d-p-p2-a-l-l1
+        http://rutor.info/torrent/864951/borba-so-ldom_against-the-ice-2022-web-dl-1080p-ot-selezen-netflix
+
+        Остальное
+        https://pbazeliuk.com/2014/10/30/git-flow-1c-enterprise/    Git-flow в «1С:Предприятие 8»
+        https://habr.com/ru/company/edison/blog/313410/             Как объяснить бабушке, что такое Agile за 15 минут с картинками
+        https://www.youtube.com/watch?v=D_oTwbDUlAk                 Использование подсистемы МСФО в 1С:УХ и 1С:ERP в архитектурах холдингов / nfp2b.ru
+        https://infostart.ru/1c/articles/1400564/                   Тестирование API 1C Postman
+        https://www.youtube.com/watch?v=D04AplXHl7E                 GIT для малышей (Road to EDT)
+        установка заборов
+        https://uslugi.yandex.ru/profile/AleksandrVasilevichMizgulin-797455?afterWorkerPage=1&occupationId=%2Fremont-i-stroitel_stvo&specId=%2Fremont-i-stroitel_stvo%2Fzabory-i-ograjdenia&text=%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%B7%D0%B0%D0%B1%D0%BE%D1%80%D0%BE%D0%B2&utm_campaign=ssa_clients.remont.zabor_ru.msk_desktop_hand.anb&utm_content=gid%7C4554218435%7Caid%7C10670278918%7C31500761142&utm_medium=search&utm_source=yandex&utm_term=%D0%A1%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%B7%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%BE%D1%84%D0%BB%D0%B8%D1%81%D1%82%D0%B0&yclid=4382293832276146440
+        https://infostart.ru/1c/articles/1319857/                   Анализ HTTP API, документирование в OpenAPI и переиспользование в Postman
+        Практика применения DevOps. Автоматизация процессов разработки, инструментарий и работа с Git
+        https://infostart.ru/1c/articles/1338055/?utm_source=soc&utm_campaign=tg
+
+
+
+Восстановление загрузчика
+	disk part							загрузить программу
+	list volume							показать список дисков
+	select volume 1						выбрать диск под номером 1 (диск выбирать надо там где распологается загрузчик)
+	format fs=ntfs						форматируем диск который выбрали в предыдущем пункте
+	assign letter=Z						назначачим букву диску
+	bcdboot E:\Windows /s C: /f All		формирование загрузчика
